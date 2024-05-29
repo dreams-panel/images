@@ -1,5 +1,5 @@
 {
-  "Image": "ghcr.io/privt00/paper",
+  "Image": "ghcr.io/privt00/paper:latest",
   "Cmd": "",
   "Id": "2",
   "Env": [],
