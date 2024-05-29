@@ -6,7 +6,7 @@
   "Name": "debian",
   "Description": "A Powerfull image to Host Paper MC",
   "Author": "info@dreamscp.site",
-  "AuthorName": "Dreams"
+  "AuthorName": "Dreams",
   "ConfigFilePath": "server.properties",
   "ConfigFileContent": "server-port={{primaryPort}}"
 }
