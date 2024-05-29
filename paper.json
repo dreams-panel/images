@@ -1,0 +1,12 @@
+{
+  "Image": "ghcr.io/privt00/paper",
+  "Cmd": "",
+  "Id": "2",
+  "Env": [],
+  "Name": "debian",
+  "Description": "A Powerfull image to Host Paper MC",
+  "Author": "info@dreamscp.site",
+  "AuthorName": "Dreams"
+  "ConfigFilePath": "server.properties",
+  "ConfigFileContent": "server-port={{primaryPort}}"
+}
